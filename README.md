@@ -1,10 +1,20 @@
 <!-- Replace the placeholders with your own information -->
 
-# 👋 Hello, I'm Akhil Siddabattula
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/main/assets/header.png" alt="Header">
+</p>
 
-![Header](https://github.com/yourusername/yourusername/blob/main/assets/header.png)
+<h1 align="center">👋 Hello, I'm Akhil Siddabattula</h1>
 
-I'm a passionate Software Engineer at [Sustainability Economics](https://www.sustainabilityeconomics.com/), dedicated to driving sustainable development and social justice through data engineering and machine learning.
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
+  <a href="https://twitter.com/YourTwitterHandle"><img src="https://img.shields.io/badge/Twitter-Follow-blue"></a>
+  <a href="https://www.yourwebsite.com/"><img src="https://img.shields.io/badge/Website-Visit-brightgreen"></a>
+</p>
+
+<p align="center">
+  I'm a passionate Software Engineer at <a href="https://www.sustainabilityeconomics.com/">Sustainability Economics</a>, dedicated to driving sustainable development and social justice through data engineering and machine learning.
+</p>
 
 ## 💼 My Work
 
@@ -29,14 +39,6 @@ I'm a passionate Software Engineer at [Sustainability Economics](https://www.sus
 
 I'm passionate about staying updated with industry trends and learning new technologies to enhance my data engineering capabilities. I'm a detail-oriented problem solver, a highly motivated team player, and a committed learner.
 
-## 📫 Let's Connect
-
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername/)
-- 🌐 Personal Website: [yourwebsite.com](https://www.yourwebsite.com/)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-
-Feel free to reach out—I'd love to connect and collaborate on exciting projects!
-
-![Footer](https://github.com/yourusername/yourusername/blob/main/assets/footer.png)
-
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/main/assets/footer.png" alt="Footer">
+</p>
